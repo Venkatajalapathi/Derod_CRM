@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19700" started-at="2019-10-15T15:27:09 GMT-12:00" finished-at="2019-10-15T15:27:29 GMT-12:00">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19700" started-at="2019-10-15T15:27:09 GMT-12:00" finished-at="2019-10-15T15:27:29 GMT-12:00">
+      <class name="com.crm.LoginTest.VerifycrmLogin">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.crm.LoginTest.VerifycrmLogin@610694f1]" name="openBrowser" is-config="true" duration-ms="6568" started-at="2019-10-15T15:27:09 GMT-12:00" finished-at="2019-10-15T15:27:16 GMT-12:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="verifyValid()[pri:1, instance:com.crm.LoginTest.VerifycrmLogin@610694f1]" name="verifyValid" duration-ms="3726" started-at="2019-10-15T15:27:16 GMT-12:00" finished-at="2019-10-15T15:27:19 GMT-12:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValid -->
+        <test-method status="PASS" signature="openCampingPage()[pri:2, instance:com.crm.LoginTest.VerifycrmLogin@610694f1]" name="openCampingPage" duration-ms="1729" started-at="2019-10-15T15:27:19 GMT-12:00" finished-at="2019-10-15T15:27:21 GMT-12:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openCampingPage -->
+        <test-method status="PASS" signature="openNewCampaign()[pri:3, instance:com.crm.LoginTest.VerifycrmLogin@610694f1]" name="openNewCampaign" duration-ms="7555" started-at="2019-10-15T15:27:21 GMT-12:00" finished-at="2019-10-15T15:27:29 GMT-12:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openNewCampaign -->
+      </class> <!-- com.crm.LoginTest.VerifycrmLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
